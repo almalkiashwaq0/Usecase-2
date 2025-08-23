@@ -82,26 +82,20 @@ This analysis highlights how these countries maintained their top positions due 
 
 ---
 
-4️⃣ Correlation Highlights
-
-Economy, Family, Life Expectancy, Freedom, and Trust → positively correlated with Happiness.
-
-Generosity shows a weak or negative correlation.
+### **4️⃣ Correlation Highlights**
+- Economy, Family, Life Expectancy, Freedom, and Trust → **positively correlated** with Happiness.  
+- Generosity shows a **weak or negative correlation**.
 
 ---
 
-🧩 Conclusion
-
-GDP, Family, Health, and Freedom are the most influential drivers of happiness.
-
-Generosity has little effect on overall happiness.
-
-Finland has consistently dominated as the happiest country in recent years.
-
-The global happiness gap persists, showing unequal well-being across regions.
+## 🧩 **Conclusion**
+- **GDP, Family, Health, and Freedom** are the most influential drivers of happiness.  
+- **Generosity** has little effect on overall happiness.  
+- **Finland** has consistently dominated as the happiest country in recent years.  
+- The global happiness gap **persists**, showing unequal well-being across regions.
 
 ---
-👩‍💻 Author
 
-Ashwaq Almalki
-Data Scientist & Analyst 
+## 👩‍💻 **Author**
+**Ashwaq Almalki**  
+Data Scientist & Analyst | Machine Learning Enthusiast  

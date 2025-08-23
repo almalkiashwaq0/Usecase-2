@@ -76,17 +76,11 @@ The factors are ranked by their impact on the **Happiness Score** based on corre
 - **2016** → Denmark  
 - **2017** → Norway  
 - **2018** → Finland  
-- **2019** → Finland  
+- **2019** → Finland
+- 
+This analysis highlights how these countries maintained their top positions due to strong economies, better life expectancy, and excellent social support systems.
 
-#### **Visualization — Top #1 Ranked Countries**
-```python
-top_countries = {
-    "Switzerland (2015)": 7.587,
-    "Denmark (2016)": 7.526,
-    "Norway (2017)": 7.537,
-    "Finland (2018)": 7.632,
-    "Finland (2019)": 7.769
-}
+---
 
 4️⃣ Correlation Highlights
 

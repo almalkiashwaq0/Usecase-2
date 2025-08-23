@@ -77,7 +77,7 @@ The factors are ranked by their impact on the **Happiness Score** based on corre
 - **2017** → Norway  
 - **2018** → Finland  
 - **2019** → Finland
-- 
+  
 This analysis highlights how these countries maintained their top positions due to strong economies, better life expectancy, and excellent social support systems.
 
 ---
@@ -87,6 +87,8 @@ This analysis highlights how these countries maintained their top positions due 
 Economy, Family, Life Expectancy, Freedom, and Trust → positively correlated with Happiness.
 
 Generosity shows a weak or negative correlation.
+
+---
 
 🧩 Conclusion
 
@@ -98,6 +100,7 @@ Finland has consistently dominated as the happiest country in recent years.
 
 The global happiness gap persists, showing unequal well-being across regions.
 
+---
 👩‍💻 Author
 
 Ashwaq Almalki
